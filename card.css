@@ -135,25 +135,25 @@ ul{
     pointer-events:none;
 } */
 .qw1{
-    background-image: url(./one_project/telegram.svg);
+    background-image: url(./telegram.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100px 100px; 
 }
 .qw2{
-    background-image: url(./one_project/Facebook.svg);
+    background-image: url(./Facebook.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100px 100px;
 }
 .qw3{
-    background-image: url(./one_project/Instagram.svg);
+    background-image: url(./Instagram.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100px 100px;
 }
 .qw4{
-    background-image: url(./one_project/Twitter.svg);
+    background-image: url(./Twitter.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100px 100px;
@@ -167,7 +167,7 @@ h2{
 .qqq{
     width: 200px;
     height: 200px;
-    background: url(./one_project/telegram.svg) no-repeat;
+    background: url(./telegram.svg) no-repeat;
 }
 .text{
     color: rgb(83, 81, 81);
